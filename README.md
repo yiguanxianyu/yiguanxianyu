@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 GIS learner
+- 🌏 GIS learner
 - 🧑 Lazy boy
 
 <!--
