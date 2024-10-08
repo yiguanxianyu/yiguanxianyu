@@ -4,7 +4,7 @@
 
 ### [My Codeium](https://codeium.com/profile/yiguanxianyu)
 
-![Yiguanxianyu's Codeium](https://codeium.com/profile/yiguanxianyu/card.png "HaHa!")
+<img src="https://codeium.com/profile/yiguanxianyu/card.png"  width="600" />
 
 <!--
 **yiguanxianyu/yiguanxianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
