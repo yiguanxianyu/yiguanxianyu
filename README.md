@@ -1,6 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 - Bad at programming
+
+### [My Codeium](https://codeium.com/profile/yiguanxianyu)
+
+![Yiguanxianyu's Codeium](https://codeium.com/profile/yiguanxianyu/card.png "HaHa!")
 
 <!--
 **yiguanxianyu/yiguanxianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
